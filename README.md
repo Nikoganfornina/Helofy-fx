@@ -3,6 +3,7 @@
 **HeloFy** es una aplicación de escritorio construida con JavaFX que funciona como reproductor de música local. Se ha diseñado desde cero con una interfaz visual atractiva, funcionalidades modernas y un sistema modular para facilitar la escalabilidad futura.
 
 Actualmente se encuentra en fase de desarrollo, pero ya cuenta con un núcleo sólido de funcionalidades implementadas.
+Este proyecto se hizo hace mucho tiempo, sin los conocemientos necesarios para desarrollarlo de la manera mas optima, si alguien lo descargar y esta dispuesto a corregirme o dar su opinion, con gusto la aceptare. Mi objetivo es seguir mejorando como programador.
 
 ---
 
